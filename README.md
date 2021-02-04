@@ -1,4 +1,4 @@
-Español | [English](https://github.com/UN-SPIDER/flood-extent-mapping)
+[English](https://github.com/UN-SPIDER/flood-extent-mapping) | Español
 
 <p><center> <img src="resources/header.png" width="1000"/> </p></center>
 
